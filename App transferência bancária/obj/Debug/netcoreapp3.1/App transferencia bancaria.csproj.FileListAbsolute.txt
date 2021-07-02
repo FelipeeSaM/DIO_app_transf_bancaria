@@ -1,0 +1,13 @@
+D:\Visual Studio MS\Repositórios\Comecando\App transferência bancária\bin\Debug\netcoreapp3.1\App transferencia bancaria.exe
+D:\Visual Studio MS\Repositórios\Comecando\App transferência bancária\bin\Debug\netcoreapp3.1\App transferencia bancaria.deps.json
+D:\Visual Studio MS\Repositórios\Comecando\App transferência bancária\bin\Debug\netcoreapp3.1\App transferencia bancaria.runtimeconfig.json
+D:\Visual Studio MS\Repositórios\Comecando\App transferência bancária\bin\Debug\netcoreapp3.1\App transferencia bancaria.runtimeconfig.dev.json
+D:\Visual Studio MS\Repositórios\Comecando\App transferência bancária\bin\Debug\netcoreapp3.1\App transferencia bancaria.dll
+D:\Visual Studio MS\Repositórios\Comecando\App transferência bancária\bin\Debug\netcoreapp3.1\App transferencia bancaria.pdb
+D:\Visual Studio MS\Repositórios\Comecando\App transferência bancária\obj\Debug\netcoreapp3.1\App transferencia bancaria.csprojAssemblyReference.cache
+D:\Visual Studio MS\Repositórios\Comecando\App transferência bancária\obj\Debug\netcoreapp3.1\App transferencia bancaria.AssemblyInfoInputs.cache
+D:\Visual Studio MS\Repositórios\Comecando\App transferência bancária\obj\Debug\netcoreapp3.1\App transferencia bancaria.AssemblyInfo.cs
+D:\Visual Studio MS\Repositórios\Comecando\App transferência bancária\obj\Debug\netcoreapp3.1\App transferencia bancaria.csproj.CoreCompileInputs.cache
+D:\Visual Studio MS\Repositórios\Comecando\App transferência bancária\obj\Debug\netcoreapp3.1\App transferencia bancaria.dll
+D:\Visual Studio MS\Repositórios\Comecando\App transferência bancária\obj\Debug\netcoreapp3.1\App transferencia bancaria.pdb
+D:\Visual Studio MS\Repositórios\Comecando\App transferência bancária\obj\Debug\netcoreapp3.1\App transferencia bancaria.genruntimeconfig.cache
